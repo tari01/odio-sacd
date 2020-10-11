@@ -1,0 +1,4 @@
+project.geany
+TODO
+src/**/*.o
+data/usr/bin/odio-sacd

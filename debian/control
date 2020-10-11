@@ -1,0 +1,15 @@
+Source: odio-sacd
+Section: sound
+Priority: optional
+Maintainer: Robert Tari <robert@tari.in>
+Build-Depends: debhelper (>= 10), gcc, libc-dev, libodiosacd
+Standards-Version: 4.1.2
+Homepage: https://tari.in/www/software/odio-sacd/
+
+Package: odio-sacd
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libodiosacd
+Description: Command-line SACD decoder
+ Converts SACD image files, Philips DSDIFF and Sony DSF files to
+ 24-bit high resolution wave files. Handles both DST and DSD
+ streams.

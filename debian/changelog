@@ -1,0 +1,23 @@
+odio-sacd (20.5.11) unstable; urgency=medium
+
+  * Update to use libodiosacd 20.5.11
+
+ -- Robert Tari <robert@tari.in>  Mon, 11 May 2020 16:38:18 +0200
+
+odio-sacd (20.5.8) unstable; urgency=medium
+
+  * Update to use libodiosacd 20.5.8
+
+ -- Robert Tari <robert@tari.in>  Fri, 08 May 2020 19:01:48 +0200
+
+odio-sacd (20.5.7) unstable; urgency=medium
+
+  * Return 1 if libodiosacd cannot open the file
+
+ -- Robert Tari <robert@tari.in>  Thu, 07 May 2020 16:03:23 +0200
+
+odio-sacd (20.5.5) unstable; urgency=medium
+
+  * Initial release
+
+ -- Robert Tari <robert@tari.in>  Tue, 5 May 2020 11:55:49 +0200
