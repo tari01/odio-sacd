@@ -25,7 +25,7 @@
 #include <time.h>
 #include <signal.h>
 
-#define APPVERSION "20.5.11"
+#define APPVERSION "20.5.12"
 
 bool m_bContinue = true;
 
