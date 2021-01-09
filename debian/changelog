@@ -1,3 +1,9 @@
+odio-sacd (21.1.9) unstable; urgency=medium
+
+  * Close the decoder library after displaying album info
+
+ -- Robert Tari <robert@tari.in>  Mon, 12 May 2020 19:48:00 +0200
+
 odio-sacd (20.5.12) unstable; urgency=medium
 
   * Version bump

@@ -4,11 +4,11 @@ Upstream-Contact: Robert Tari <robert@tari.in>
 Source: https://github.com/tari01/odio-sacd
 
 Files: *
-Copyright: 2015-2020 Robert Tari <robert@tari.in>
+Copyright: 2015-2021 Robert Tari <robert@tari.in>
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2015-2020 Robert Tari <robert@tari.in>
+Copyright: 2015-2021 Robert Tari <robert@tari.in>
 License: GPL-3.0+
 
 License: GPL-3.0+

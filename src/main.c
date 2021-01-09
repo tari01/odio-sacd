@@ -1,5 +1,5 @@
 /*
-    Copyright 2015-2020 Robert Tari <robert@tari.in>
+    Copyright 2015-2021 Robert Tari <robert@tari.in>
 
     This file is part of Odio SACD library.
 
@@ -25,7 +25,7 @@
 #include <time.h>
 #include <signal.h>
 
-#define APPVERSION "20.5.12"
+#define APPVERSION "21.1.9"
 
 bool m_bContinue = true;
 
@@ -204,6 +204,8 @@ int main(int argc, char *argv[])
 
             printf("\n");
         }
+
+        odiolibsacd_Close();
 
         return 0;
     }
