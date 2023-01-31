@@ -1,5 +1,5 @@
 /*
-    Copyright 2015-2021 Robert Tari <robert@tari.in>
+    Copyright 2015-2023 Robert Tari <robert@tari.in>
 
     This file is part of Odio SACD library.
 
@@ -25,7 +25,7 @@
 #include <time.h>
 #include <signal.h>
 
-#define APPVERSION "21.1.9"
+#define APPVERSION "23.1.31"
 
 bool m_bContinue = true;
 
