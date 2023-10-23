@@ -25,8 +25,6 @@
 #include <time.h>
 #include <signal.h>
 
-#define APPVERSION "23.1.31"
-
 bool m_bContinue = true;
 
 static bool odiosacd_OnProgress(float fProgress, char *sFilePath, int nTrack, void *pUserData)

@@ -30,6 +30,7 @@ pkg_check_modules (DEPS REQUIRED libodiosacd)
 # Build
 
 add_subdirectory (src)
+add_subdirectory (man)
 
 # Info
 
