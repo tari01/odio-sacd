@@ -1,3 +1,9 @@
+# 23.11.1
+
+ - Add manpage (c1514b3)
+ - CHANGELOG.md: Add changelog (93586d3)
+ - Build using CMake (a261a3c)
+
 # 23.1.31
 
  - Release 23.1.31
