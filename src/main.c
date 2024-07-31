@@ -1,20 +1,20 @@
 /*
-    Copyright 2015-2023 Robert Tari <robert@tari.in>
+    Copyright 2015-2024 Robert Tari <robert@tari.in>
 
-    This file is part of Odio SACD library.
+    This file is part of Odio SACD.
 
-    Odio SACD library is free software: you can redistribute it and/or modify
+    Odio SACD is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    Odio SACD library is distributed in the hope that it will be useful,
+    Odio SACD is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with Odio SACD library. If not, see <http://www.gnu.org/licenses/gpl-3.0.txt>.
+    along with Odio SACD. If not, see <http://www.gnu.org/licenses/gpl-3.0.txt>.
 */
 
 #include <libodiosacd/libodiosacd.h>
