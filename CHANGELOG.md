@@ -1,3 +1,7 @@
+# 24.8.1
+
+ - src/main.c: Correct copyright header text (6475e5c)
+
 # 23.11.1
 
  - Add manpage (c1514b3)
